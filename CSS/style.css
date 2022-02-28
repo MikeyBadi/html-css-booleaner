@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+}
+
+/* HEADER */
+header{
+  background-image: url("/img/pattern.png");
+  background-color: #4EA0FF;
+  background-size: 400px;
+  height: 100px;
+
+
+}
+
+header img{
+  width: 200px;
+  padding: 40px 0 10px;
+}
+
+/* MAIN */
+main{
+  margin: 20px 8px 20px 5px;
+}
+
+/* title */
+.title h1{
+  padding-right: 150px;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.title p{
+  color: #7F7F7F;
+}
+.writer{
+  margin-top: 0;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.title p span{
+  color: #00A7E5;
+}
+
+.date{
+  font-size: 0.8rem;
+  margin-top: 0;
+}
