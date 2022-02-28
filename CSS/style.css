@@ -27,6 +27,7 @@ main{
   margin: 20px 8px;
 }
 
+
 /* title */
 .title h1{
   padding-right: 150px;
@@ -52,6 +53,7 @@ main{
   margin: 0;
 }
 
+
 /* fotos */
 
 .fotos img{
@@ -63,14 +65,39 @@ margin: 0;
 font-size: 0.8rem;
 }
 
+
 /* text document */
-.lor-1 p span{
+.lor-1 span{
 background-color: yellow;
-margin-bottom: 10px;
 }
 
 .lor-1 ul{
   padding-left: 18px;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+
+/* table */
+.table table{
+border-collapse: collapse;
+width: 100%;
+}
+.table thead{
+  background-color: #1FA9E5;
+  color: white;
+}
+
+.clr{
+  background-color: #B2E4F2
+  ;
+}
+
+table{
+  text-align: left;
+  margin-top: 25px;
+}
+
+.table th{
+  width: 15px;
 }
