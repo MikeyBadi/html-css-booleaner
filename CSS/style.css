@@ -1,3 +1,4 @@
+
 body{
   margin: 0;
 }
@@ -19,7 +20,7 @@ header img{
 
 /* MAIN */
 main{
-  margin: 20px 8px 20px 5px;
+  margin: 20px 8px;
 }
 
 /* title */
@@ -44,5 +45,17 @@ main{
 
 .date{
   font-size: 0.8rem;
-  margin-top: 0;
+  margin: 0;
+}
+
+/* fotos */
+
+.fotos img{
+  margin-top: 20px;
+}
+
+.fotos p{
+margin-top: 0;
+margin-bottom: 30px;
+font-size: 0.8rem;
 }
