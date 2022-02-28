@@ -3,7 +3,9 @@ body{
   margin: 0;
 }
 
-/* HEADER */
+/* 
+HEADER 
+*/
 header{
   background-image: url("/img/pattern.png");
   background-color: #4EA0FF;
@@ -18,7 +20,9 @@ header img{
   padding: 40px 0 10px;
 }
 
-/* MAIN */
+/* 
+MAIN 
+*/
 main{
   margin: 20px 8px;
 }
@@ -55,7 +59,18 @@ main{
 }
 
 .fotos p{
-margin-top: 0;
-margin-bottom: 30px;
+margin: 0;
 font-size: 0.8rem;
+}
+
+/* text document */
+.lor-1 p span{
+background-color: yellow;
+margin-bottom: 10px;
+}
+
+.lor-1 ul{
+  padding-left: 18px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
