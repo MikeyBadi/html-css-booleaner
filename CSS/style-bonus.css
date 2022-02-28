@@ -1,0 +1,141 @@
+
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 0%;
+}
+
+/* 
+HEADER 
+*/
+header{
+  background-image: url("/img/pattern.png");
+  background-color: #4EA0FF;
+  background-size: 400px;
+  height: 100px;
+
+
+}
+
+header img{
+  width: 200px;
+  padding: 40px 10px 10px;
+}
+
+/*
+SITE BODY THINNER
+*/
+.site-body{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+/* 
+MAIN 
+*/
+main, footer{
+  margin: 20px 8px;
+}
+
+
+/* title */
+.title h1{
+  padding-right: 40%;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.title p, footer h4{
+  color: #7F7F7F;
+}
+.writer{
+  margin-top: 0;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.title p span{
+  color: #00A7E5;
+}
+
+.date{
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+
+/* fotos */
+
+.fotos img{
+  margin-top: 20px;
+}
+
+.fotos p{
+margin: 0;
+font-size: 0.8rem;
+}
+
+
+/* text document */
+.lor-1 span, .lor-2 span{
+background-color: yellow;
+}
+
+.lor-1 ul{
+  padding-left: 18px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* table */
+.table table{
+border-collapse: collapse;
+width: 100%;
+}
+.table thead{
+  background-color: #1FA9E5;
+  color: white;
+}
+
+.clr{
+  background-color: #B2E4F2
+  ;
+}
+
+table{
+  text-align: left;
+  margin-top: 25px;
+}
+
+.table th{
+  width: 15px;
+}
+
+/* 
+FOOTER
+*/
+
+.monitor{
+  background-image: url("/img/monitor.jpg");
+  width: 210px;
+  height: 160px;
+  background-size: contain;
+  background-size: 115%;
+}
+
+.graph{
+  background-image: url("/img/graph.jpg");
+  width: 210px;
+  height: 160px;
+  background-size: 110%;
+}
+
+footer h3{
+  font-size: 1.1rem;
+  position: relative;
+  left: 5%;
+  top: 5%;
+  color: white;
+
+}
